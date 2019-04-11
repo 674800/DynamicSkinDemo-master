@@ -1,0 +1,1 @@
+include ':app', ':blue-skin', ':testtheme',":android-skin-loader-lib"
